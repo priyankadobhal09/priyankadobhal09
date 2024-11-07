@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Priyanka 👋
 
-<!--
-**priyankadobhal09/priyankadobhal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬About me: 
 
-Here are some ideas to get you started:
+For work, I oversee the design and delivery of innovative and impactful data solutions for clients across various domains and industries. I leverage my expertise in Visual and programming to create compelling visualizations and dashboards that enable data-driven insights and decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫Connect with me:
+
+<a href="https://priyankadobhal.medium.com">
+<img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/priyanka-dobhal/">
+<img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://public.tableau.com/app/profile/priyanka.dobhal0993/vizzes#!">
+<img height="30" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+</a>
+
+
+### Top Languages
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankadobhal09&layout=compact)
+  
